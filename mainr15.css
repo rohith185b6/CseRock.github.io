@@ -246,6 +246,86 @@ html
 		width:100%;
 	}
 }
+@media screen and(max-width: 468px;)
+{
+	.section
+	{
+		width:100%;
+	}
+	.neon
+	{
+		width:100%;
+		height: 100%;
+	}
+	.img
+	{
+		width:100%;
+		height: 100%;
+	}
+	.header
+	{
+		width:100%;
+		display: block;
+	}
+	.rp
+	{
+		width: 100%;
+	}
+	.srs
+	{
+		width: 100%;
+	}
+	.sub
+	{
+		width:100%;
+	}
+	.lab
+	{
+		width:100%;
+	}
+	.sub1
+	{
+		width:100%;
+	}
+	.co
+	{
+		width:100%;
+	}
+	.flat
+	{
+		width:100%;
+	}
+	.mpi
+	{
+		width:100%;
+	}
+	.oopj
+	{
+		width: 100%;
+	}
+	.ps
+	{
+		width:100%;
+	}
+	.se
+	{
+		width:100%;
+	}
+	.menu
+	{
+		width:100%;
+		display: block;
+	}
+	.en-menu
+	{
+		width:100%;
+		display: block;
+	}
+	.an-menu
+	{
+		width:100%;
+	}
+}
 .srs .rst 
 {
 	position: absolute;
